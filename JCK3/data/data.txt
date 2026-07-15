@@ -1,0 +1,3 @@
+wards=3
+medicines=15
+patients=8
